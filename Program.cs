@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿int totalSteps = 15;
